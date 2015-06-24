@@ -1,0 +1,14 @@
+I don't know what to type into the list. 
+Lists, stacks and queues are linear data structures. A tree is a
+nonlinear, two-dimensional data structure with special preperties. Tree
+nodes contain two or more links. 
+This section discusses binary trees - trees whose nodes need contain two
+links. 
+The root node is the first node in a tree. Each link in the root node
+refers to a child. 
+The left child is the first node in the left subtree, and the right
+child is the first node in the right subtree.
+The children of a specific node are called sibling. 
+A node with no children is called a leaf node. Computer scientists
+normally draw trees from the root node down - the opposite of the way
+most trees grow in nature. 
